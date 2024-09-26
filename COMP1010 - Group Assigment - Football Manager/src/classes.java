@@ -160,3 +160,12 @@ class League {
         return sb.toString();
     }
 }
+
+// Comments for an Update: 
+// Change the classes based on the recieved feedback (Can find it in the readme file)
+// Make the goals randomaly generatated rather than user input. Achieves the aim of the code? (Futher Discuss with team in person)!!
+
+// What to change regarding classes: 
+// Create a new class could "Statistics" or "Stats" where the goal difference, points, goals for and againts, are recorded. 
+// This makes the classes have a cleaner and more readable sensable structure.
+// Similarly with league Class move stats related methods to the Stats class, again making it organised. 
