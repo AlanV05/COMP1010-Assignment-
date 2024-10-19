@@ -36,6 +36,8 @@ For the code:
       // Create a new class could "Statistics" or "Stats" where the goal difference, points, goals for and againts, are recorded. 
       // This makes the classes have a cleaner and more readable sensable structure.
       // Similarly with league Class move stats related methods to the Stats class, again making it organised.
+      // To make it more simple we can automate the scores and the goal scorers. 
+      // The only input the user needs to do is Teams and players. 
 
   
   
