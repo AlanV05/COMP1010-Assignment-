@@ -6,6 +6,7 @@ COMP1010 Assignment (Football League)
 
 What we need to do.
   For the code:
+  
       1. Unit testing for 10 non-trivial functions
       
       2. Have one instance of recursive data structure
@@ -21,6 +22,7 @@ What we need to do.
   
   
   Documentation:
+  
       1. Design process 
       
       2. Task allocation
