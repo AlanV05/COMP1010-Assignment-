@@ -31,8 +31,10 @@ For the code:
       1. Unit testing for 10 non-trivial functions
       
       2. Have one instance of recursive data structure
+
+      3. More Commenting
       
-      3. Delegation -> What to change regarding classes: 
+      4. Delegation -> What to change regarding classes: 
       // Create a new class could "Statistics" or "Stats" where the goal difference, points, goals for and againts, are recorded. 
       // This makes the classes have a cleaner and more readable sensable structure.
       // Similarly with league Class move stats related methods to the Stats class, again making it organised.
